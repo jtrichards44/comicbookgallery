@@ -31,4 +31,3 @@ namespace ComicBookGallery.Controllers
         }
     }
 }
-//comment for commit
